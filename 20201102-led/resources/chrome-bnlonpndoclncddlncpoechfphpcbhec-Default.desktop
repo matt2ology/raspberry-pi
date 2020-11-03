@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Breadboard tutorial: learn electronics with Raspberry Pi — The MagPi magazine
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=bnlonpndoclncddlncpoechfphpcbhec
+Icon=chrome-bnlonpndoclncddlncpoechfphpcbhec-Default
+StartupWMClass=crx_bnlonpndoclncddlncpoechfphpcbhec
