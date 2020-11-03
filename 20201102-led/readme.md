@@ -1,4 +1,5 @@
 # Learning Resources
+- https://docs.microsoft.com/en-us/samples/microsoft/windows-iotcore-samples/hello-blinky/
 - https://www.makeuseof.com/tag/raspberry-pi-control-led/
 - https://www.raspberrypi-spy.co.uk/2012/05/install-rpi-gpio-python-library/
 - https://thepihut.com/blogs/raspberry-pi-tutorials/tutorial-flashing-led-using-gpio-output
