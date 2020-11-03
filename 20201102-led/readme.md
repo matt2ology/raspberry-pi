@@ -1,4 +1,5 @@
 # Learning Resources
+- https://www.makeuseof.com/tag/raspberry-pi-control-led/
 - https://www.raspberrypi-spy.co.uk/2012/05/install-rpi-gpio-python-library/
 - https://thepihut.com/blogs/raspberry-pi-tutorials/tutorial-flashing-led-using-gpio-output
 - https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
