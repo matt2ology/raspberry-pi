@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=Turning on an LED with your Raspberry Pi's GPIO Pins– The Pi Hut
-Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=dffggdhlgfkhkfogdnkjmjoaemkallpb
-Icon=chrome-dffggdhlgfkhkfogdnkjmjoaemkallpb-Default
-StartupWMClass=crx_dffggdhlgfkhkfogdnkjmjoaemkallpb

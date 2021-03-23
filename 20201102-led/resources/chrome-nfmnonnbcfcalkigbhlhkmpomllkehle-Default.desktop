@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=Making a LED blink using the Raspberry Pi and Python | Raspberry Pi HQ
-Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=nfmnonnbcfcalkigbhlhkmpomllkehle
-Icon=chrome-nfmnonnbcfcalkigbhlhkmpomllkehle-Default
-StartupWMClass=crx_nfmnonnbcfcalkigbhlhkmpomllkehle
