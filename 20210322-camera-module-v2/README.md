@@ -36,3 +36,5 @@
 #### Filter?
 
 ## Notes
+
+- [Documentation for picamera](https://picamera.readthedocs.io/en/release-0.8/recipes1.html)
