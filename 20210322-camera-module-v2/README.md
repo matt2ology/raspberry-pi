@@ -17,6 +17,9 @@
 
 ### write some scripts that make it do something
 
+- [x] [picamera00](picamera00.py)
+  - Flips the camera preview by 180 degrees, waits 5 seconds, and ends preview
+
 #### lapse timer
 
 #### OpenCV?
