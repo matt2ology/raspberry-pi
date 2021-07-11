@@ -25,5 +25,3 @@
 #### Filter?
 
 ## Notes
-
-## References/External links
