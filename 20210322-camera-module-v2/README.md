@@ -16,10 +16,6 @@
 
 ## Setup
 
-
-
 ## Notes
-
-
 
 ## References/External links
