@@ -8,7 +8,6 @@
       - [OpenCV?](#opencv)
       - [Filter?](#filter)
   - [Notes](#notes)
-  - [References/External links](#referencesexternal-links)
 
 ## Goals
 
