@@ -14,8 +14,6 @@
   - OpenCV?
   - Filter?
 
-## Setup
-
 ## Notes
 
 ## References/External links
